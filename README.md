@@ -13,3 +13,4 @@ Here are some patches to dwmblocks that add features that I either don't want to
 I do not maintain these but I will take pull requests to update them.
 <br>
 <a href=https://gist.github.com/toniz4/41d168719e22bf7bc4ecff09d424b7d2>dwmblocks-statuscmd-20200717-941f415.diff</a>
+# look at my dot files to see the scripts that I am using with it
